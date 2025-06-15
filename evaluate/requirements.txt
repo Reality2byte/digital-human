@@ -1,10 +1,10 @@
 absl-py
 evaluate
 langchain==0.2.5
-langchain-community==0.2.5
-langchain-core==0.2.7
+langchain-community==0.2.19
+langchain-core==0.2.43
 langchain-nvidia-ai-endpoints==0.1.1
 pandas==2.2.2
 ragas==0.0.21
-requests==2.31.0
+requests==2.32.4
 rouge_score==0.1.2
